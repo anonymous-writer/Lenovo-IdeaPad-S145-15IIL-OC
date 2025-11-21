@@ -59,7 +59,7 @@ Empfohlen:
 ![macOS Tahoe Desktop](https://raw.githubusercontent.com/anonymous-writer/Lenovo-IdeaPad-S145-15IIL/master/Pictures/Tahoe.png)
 
 ### OpenCore Boot Picker
-![OpenCore Boot Picker](https://raw.githubusercontent.com/anonymous-writer/Lenovo-IdeaPad-S145-15IIL/master/Pictures/Startbildschierm.png)
+![OpenCore Boot Picker](https://github.com/anonymous-writer/Lenovo-IdeaPad-S145-15IIL-OC/blob/master/Pictures/Startbildschierm.png)
 
 ### YogaSMC – Batterie & Lüftersteuerung
 ![YogaSMC Battery & Fan Control](https://raw.githubusercontent.com/anonymous-writer/Lenovo-IdeaPad-S145-15IIL/master/Pictures/YogaSMC.png)
