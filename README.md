@@ -1,4 +1,4 @@
-# Lenovo IdeaPad S145-15IIL – Hackintosh Guide (Big Sur → Ventura)
+# Lenovo IdeaPad S145-15IIL – Hackintosh Guide (Big Sur → Tahoe)
 
 **Modell:** Lenovo IdeaPad S145-15IIL  
 **CPU:** Intel Core i5‑1035G1  
