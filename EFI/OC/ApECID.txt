@@ -1,0 +1,8 @@
+bless bless --folder "/Volumes/Macintosh HD/System/Library/CoreServices" \ --bootefi --personalize
+
+
+disk=$(hdiutil attach -nomount ram://4096)
+diskutil erasevolume HFS+ SecureBoot $disk
+diskutil unmount $disk
+mkdir /var/tmp/OSPersonalizationTemp
+diskutil mount -mountpoint /var/tmp/OSPersonalizationTemp $disk
