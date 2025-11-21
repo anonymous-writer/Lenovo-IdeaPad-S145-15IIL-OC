@@ -53,19 +53,19 @@ Empfohlen:
 ## 🖼️ Screenshots
 
 ### Systeminformationen
-![About This Mac – System Info](https://raw.githubusercontent.com/anonymous-writer/Lenovo-IdeaPad-S145-15IIL/master/Pictures/System.png)
+![About This Mac – System Info](https://github.com/anonymous-writer/Lenovo-IdeaPad-S145-15IIL-OC/blob/master/Pictures/System.png)
 
 ### macOS Tahoe Desktop
-![macOS Tahoe Desktop](https://raw.githubusercontent.com/anonymous-writer/Lenovo-IdeaPad-S145-15IIL/master/Pictures/Tahoe.png)
+![macOS Tahoe Desktop](https://github.com/anonymous-writer/Lenovo-IdeaPad-S145-15IIL-OC/blob/master/Pictures/Tahoe.png)
 
 ### OpenCore Boot Picker
 ![OpenCore Boot Picker](https://github.com/anonymous-writer/Lenovo-IdeaPad-S145-15IIL-OC/blob/master/Pictures/Startbildschierm.png)
 
 ### YogaSMC – Batterie & Lüftersteuerung
-![YogaSMC Battery & Fan Control](https://raw.githubusercontent.com/anonymous-writer/Lenovo-IdeaPad-S145-15IIL/master/Pictures/YogaSMC.png)
+![YogaSMC Battery & Fan Control](https://github.com/anonymous-writer/Lenovo-IdeaPad-S145-15IIL-OC/blob/master/Pictures/YogaSMC.png)
 
 ### USB‑Port‑Mapping
-![USB Ports Mapping](https://raw.githubusercontent.com/anonymous-writer/Lenovo-IdeaPad-S145-15IIL/master/Pictures/USB-Ports.png)
+![USB Ports Mapping](https://github.com/anonymous-writer/Lenovo-IdeaPad-S145-15IIL-OC/blob/master/Pictures/USB-Ports.png)
 
 ---
 ## 🎥 Video – HibernateMode 25
